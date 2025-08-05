@@ -1,6 +1,4 @@
 # D-PEMs-111
-code:
-
 01_adjust_lora_weight.py 根据有毒数据集微调得到的lora权重来调整下游数据集微调得到的lora权重的方向或模长
 
 02_gen_toxic_text.py 利用调整后的模型，根据输入指令，生成评论，并将生成的评论存入 .csv 文件
