@@ -23,4 +23,6 @@ bbq_bias.json 5000 个有偏样本的 bbq 数据集
 
 bbq_test.json 5000 个安全样本的 bbq 测试集
 
-peft setting: 利用llamafactory库进行lora微调的参数设置
+setting: 
+
+利用llamafactory库进行lora微调的参数设置
